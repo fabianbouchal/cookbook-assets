@@ -4039,6 +4039,26 @@
 			"preparation_time": "45 min",
 			"servings": 1,
 			"type": "SPREAD"
+		},
+		{
+			"backing_heat": "",
+			"backing_time": "20",
+			"herbs": [
+				"ajsogdfjod",
+				"asgdnjfndi",
+				"jasgdni"
+			],
+			"hint": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/testrezept.jpg",
+			"name": "TEST REZEPT",
+			"preparation_steps": [
+				"saidgnfiuang",
+				"asgidniafn",
+				"aigsdniagsndi iagsdni asnidgufidfnu ansigduniadsn nasgdiuniasndi"
+			],
+			"preparation_time": "50",
+			"servings": 2,
+			"type": "CAKE"
 		}
 	],
 	"categories": [
