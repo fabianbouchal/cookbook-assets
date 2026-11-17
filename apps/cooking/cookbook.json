@@ -1,0 +1,4317 @@
+{
+	"recipes": [
+		{
+			"name": "Kaspressknödelsuppe",
+			"type": "SOUP",
+			"servings": 0,
+			"preparation_time": "",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/kaspressknoedelsuppe.png",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Knödelbrot",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Kräftiger Käse",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Milch",
+					"amount": 200,
+					"unit": "ml"
+				},
+				{
+					"name": "Ei",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Gemüsesuppe",
+					"amount": 1,
+					"unit": "l"
+				}
+			],
+			"herbs": [
+				"Schnittlauch"
+			],
+			"preparation_steps": [
+				"Käse fein reiben, mit den restlichen Zutaten vermischen, salzen und zu einem festen Teig kneten.",
+				"Aus dem Teig Knödel formen, diese flach drücken und in der Pfanne anbraten.",
+				"Die Suppe machen und dann die Kaspressknödel in der Suppe servieren. Mit schnittlauch garnieren."
+			],
+			"hint": "",
+			"tags": [
+				"Vegetarisch",
+				"Gemüse",
+				"Vorspeise",
+				"Suppe"
+			]
+		},
+		{
+			"name": "Gemüselasagne",
+			"type": "MAIN_DISH",
+			"servings": 3,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "30 - 40 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/gemueselasagne.jpg",
+			"ingredients": [
+				{
+					"name": "Tiefkühlgemüse",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Tomatenmark",
+					"amount": 1,
+					"unit": "EL"
+				},
+				{
+					"name": "Passierte Tomaten",
+					"amount": 500,
+					"unit": "ml"
+				},
+				{
+					"name": "Tomaten (geschält, 800g)",
+					"amount": 1,
+					"unit": "Dose"
+				},
+				{
+					"name": "Zwiebel (groß)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Knoblauchzehen",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Käse",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Lasagneblätter",
+					"amount": 1,
+					"unit": "Pkg."
+				},
+				{
+					"name": "Milch",
+					"amount": 450,
+					"unit": "ml"
+				},
+				{
+					"name": "Butter",
+					"amount": 30,
+					"unit": "g"
+				},
+				{
+					"name": "Mehl",
+					"amount": 40,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"Petersilie",
+				"Salz",
+				"Butter"
+			],
+			"preparation_steps": [
+				"Die gewürfelte Zwiebel und feingeschnittenen Knoblauchzehen in einem Topf mit etwas Olivenöl anbraten. Tomatenmark dazu rühren. Das Tiefkühlgemüse ebenfalls etwas anbraten. Dosentomaten würfeln und mit den passierten Tomaten dazugeben. Köcheln lassen.",
+				"Etwas von der Tomatensauce auf dem Boden einer Auflaufform verteilen. Schichtweise Lasagneplatten und Tomatensauce hineingeben. Letzte Schicht soll ein bisschen Tomatensauce sein.",
+				"Für die Béchamelsoße die Butter in einem Topf schmelzen. Das Mehl mit dem Schneebesen schrittweise einrühren. Nach und nach die Milch hinzugeben. Kontinuierlich mit dem Schneebesen umrühren und immer auf der heißen Platte lassen. Rühren bis Soße wieder etwas dickflüssiger wird, dann wieder Milch dazu. Salz und Pfeffer dazu.",
+				"Die Béchamelsoße über die Lasagne gießen und mit geriebenen Käse bedecken. Bei 180°C ca. 30 bis 40 Minuten backen. Aus dem Rohr nehmen und noch ca. 10 Minuten stehen lassen."
+			],
+			"hint": "Vor dem Servieren noch etwas auskühlen lassen.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Flammkuchen",
+			"type": "MAIN_DISH",
+			"servings": 3,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "20 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/flammkuchen.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 400,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser (lauwarm)",
+					"amount": 200,
+					"unit": "ml"
+				},
+				{
+					"name": "Germ",
+					"amount": 20,
+					"unit": "g"
+				},
+				{
+					"name": "ÖL",
+					"amount": 2,
+					"unit": "EL"
+				},
+				{
+					"name": "Brokkoli",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Frühlingszwiebel",
+					"amount": 1,
+					"unit": "Bund"
+				},
+				{
+					"name": "Paprika (rot)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Lachs",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Frischkäse (Kräuter)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Käse (gerieben)",
+					"amount": 100,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"Salz"
+			],
+			"preparation_steps": [
+				"Brokkoli in kleinere Stücke teilen, waschen und weich kochen.",
+				"Paprika in kleine Stücke schneiden, in einer Pfanne dünsten und beiseite stellen.",
+				"Frühlingszwiebel klein schneiden und ebenfalls in der Pfanne dünsten.",
+				"Den halben Germ im lauwarmen Wasser auflösen und gemeinsam mit Mehl, Öl und etwas Salz zu einem Teig verkneten.",
+				"Teig auf drei Teile aufteilen, dünn auswalken und jeweils auf ein Blech geben. Den Teig ganz dünn mit etwas Frischkäse bestreichen.",
+				"Danach den Brokkoli darauf verteilen. Lachs in Streifen schneiden und ebenfalls auf dem Teig verteilen. Danach Paprika und Frühlingszwiebel darüber und zum schluss den geriebenen Käse oben drauf",
+				"Alles bei 180°C Heißluft ca. 20 Minuten backen, bis der Teig schön knusprig geworden ist."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Maki (Grundrezept)",
+			"type": "MAIN_DISH",
+			"servings": 18,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/maki.jpg",
+			"ingredients": [
+				{
+					"name": "Sushi-Reis",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser",
+					"amount": 315,
+					"unit": "ml"
+				},
+				{
+					"name": "Reisessig",
+					"amount": 30,
+					"unit": "ml"
+				},
+				{
+					"name": "Nori (Algenblätter)",
+					"amount": 3,
+					"unit": "Stk."
+				}
+			],
+			"herbs": [
+				"Füllung nach Belieben (Gurke, Avokado, Lachs, etc.)"
+			],
+			"preparation_steps": [
+				"Den Reis in ein Sieb geben und kräftig abspülen. Anschließend gemeinsam mit dem Wasser in einem Topf zum erhitzen bringen. Sobald das Wasser kocht bei geringer Hitze mit Deckel für 10 min köcheln lassen.",
+				"Anschließend den Reis vom Herd nehmen und 10 min abkühlen lassen. Danach den Reisessig einrühren.",
+				"Auf einer Bambusmatte ein Noriblatt auslegen und Reis darauf verteilen. Dazu die Finger mit kaltem Wasser befeuchten, damit der Reis nicht kleben bleibt.",
+				"Auf dem Reis das Füllmaterial (Gurke, etc.) in einer Linie auflegen und anschließend mit der Matte einrollen.",
+				"Die Rolle in Scheiben schneiden. Dazu ebenfalls das Messer mit kaltem Wasser befeuchten, da sonst auf dem Messer der Reis kleben bleibt."
+			],
+			"hint": "Mit eingelegten Ingwerscheiben servieren.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Tom Yam Suppe mit Tofu",
+			"type": "MAIN_DISH",
+			"servings": 2,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/tomyammittofu.jpg",
+			"ingredients": [
+				{
+					"name": "Karfiol",
+					"amount": 350,
+					"unit": "g"
+				},
+				{
+					"name": "Champignons",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Tofu",
+					"amount": 300,
+					"unit": "g"
+				},
+				{
+					"name": "Lauch",
+					"amount": 150,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"Sojasauce",
+				"Suppenwürfel",
+				"Öl",
+				"Pfeffer"
+			],
+			"preparation_steps": [
+				"Ca. einen dreiviertel Liter Wasser zum Kochen bringen. Karfiol waschen und zerkleinern. Champignons waschen und vierteln. Karfio und Champignons im Wasser weichkochen.",
+				"Tofu würfeln und gemeinsam mit dem geschnittenen Lauch in einer Pfanne anbraten. Anschließend mit Sojasaue ablöschen.",
+				"Das Tofu und den Lauch in die Suppe geben, einen Schuss Öl dazu und mit Pfeffer abschmecken."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Pide mit Feta",
+			"type": "MAIN_DISH",
+			"servings": 3,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "13 min",
+			"backing_heat": "200°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/pidemitfeta.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 350,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser (lauwarm)",
+					"amount": 150,
+					"unit": "ml"
+				},
+				{
+					"name": "Kartoffeln",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Lauch",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Ei",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Zwiebel (groß)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Knoblauchzehen",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Germ (halber Würfel)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Feta",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Salz",
+					"amount": 1,
+					"unit": "EL"
+				},
+				{
+					"name": "Zucker",
+					"amount": 1,
+					"unit": "EL"
+				}
+			],
+			"herbs": [
+				"Butter",
+				"Petersilie"
+			],
+			"preparation_steps": [
+				"Mehl, Wasser, Ei, Germ, Salz und Zucker vermischen und zu einem weichen Teig verkneten. Den Teig zugedeckt an einem warmen Ort ca. eine Stunde gehen lassen.",
+				"Währenddessen die Kartoffeln schälen, klein würfeln und im Wasser kochen. Anschließend in der Pfanne kurz anbraten.",
+				"Zwiebel, Knoblauch und Lauch schneiden und in der Pfanne scharf anbraten.",
+				"Den Teig in 6 Stücke teilen und jedes Stück oval auswalken. Zuerst die Kartoffeln darauf verteilen, danach Zwiebel, Lauch und Knoblauch. Den Rand des Teiges einmal hochstülpen und die Enden auf jeder Seite verdrehen. Den Feta klein würfeln und darüber streuen.",
+				"Im Ofen bei 200°C Heißluft ca. 13 Minuten backen. Aus dem Ofen nehmen und die Ränder mit einem Stück Butter einschmieren. Petersilie hacken und vor dem Servieren drüberstreuen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Lasagne Bolonese",
+			"type": "MAIN_DISH",
+			"servings": 3,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "30 - 40 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/lasagnebolonese.jpg",
+			"ingredients": [
+				{
+					"name": "Faschiertes",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Tomatenmark",
+					"amount": 1,
+					"unit": "EL"
+				},
+				{
+					"name": "Passierte Tomaten",
+					"amount": 500,
+					"unit": "ml"
+				},
+				{
+					"name": "Tomaten (geschält, 800g)",
+					"amount": 1,
+					"unit": "Dose"
+				},
+				{
+					"name": "Zwiebel (groß)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Knoblauchzehen",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Käse",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Lasagneblätter",
+					"amount": 1,
+					"unit": "Pkg."
+				},
+				{
+					"name": "Milch",
+					"amount": 450,
+					"unit": "ml"
+				},
+				{
+					"name": "Butter",
+					"amount": 30,
+					"unit": "g"
+				},
+				{
+					"name": "Mehl",
+					"amount": 40,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"Petersilie",
+				"Salz",
+				"Butter"
+			],
+			"preparation_steps": [
+				"Die gewürfelte Zwiebel und feingeschnittenen Knoblauchzehen mit Faschierten in einem Topf mit etwas Olivenöl anbraten. Tomatenmark dazu rühren. Dosentomaten würfeln und mit den passierten Tomaten dazugeben. Köcheln lassen.",
+				"Etwas von der Tomatensauce auf dem Boden einer Auflaufform verteilen. Schichtweise Lasagneplatten und Tomatensauce hineingeben. Letzte Schicht soll ein bisschen Tomatensauce sein.",
+				"Für die Béchamelsoße die Butter in einem Topf schmelzen. Das Mehl mit dem Schneebesen schrittweise einrühren. Nach und nach die Milch hinzugeben. Kontinuierlich mit dem Schneebesen umrühren und immer auf der heißen Platte lassen. Rühren bis Soße wieder etwas dickflüssiger wird, dann wieder Milch dazu. Salz und Pfeffer dazu.",
+				"Die Béchamelsoße über die Lasagne gießen und mit geriebenen Käse bedecken. Bei 180°C ca. 30 bis 40 Minuten backen. Aus dem Rohr nehmen und noch ca. 10 Minuten stehen lassen."
+			],
+			"hint": "Vor dem Servieren noch etwas auskühlen lassen.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Spinatlasagne",
+			"type": "MAIN_DISH",
+			"servings": 3,
+			"preparation_time": "90 min",
+			"backing_time": "30 - 40 min",
+			"backing_heat": "200°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/spinatlasagne.jpg",
+			"ingredients": [
+				{
+					"name": "Cremespinat",
+					"amount": 600,
+					"unit": "g"
+				},
+				{
+					"name": "Passierte Tomaten",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Frischkäse",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Bergkäse",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Zwiebel (groß)",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Knoblauchzehen",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Lasagneblätter",
+					"amount": 1,
+					"unit": "Pkg."
+				}
+			],
+			"herbs": [
+				"Salz",
+				"Oregano",
+				"Basilikum",
+				"Petersilie"
+			],
+			"preparation_steps": [
+				"Einen Zwiebel und eine Zehe Knoblauch klein schneiden und in einem Topf anbraten. Spinat dazugeben und erwärmen. Frischkäse nach und nach einrühren.",
+				"Den zweiten Zwiebel und die zweite Knoblauchzehe klein schneiden und in einem zweiten Topf anbraten. Die passierten Tomaten dazu, aufkochen lassen und mit Salz und Kräuter (Oregano, Basilikum, Petersilie, etc.) abschmecken.",
+				"In eine Auflauorm geben: Schicht Lasagneblätter, Spinat drauf, Tomatensauce drauf und wieder Lasagneblätter. Letze Schicht soll wieder Spinat+Tomatensauce sein. Bergkäse reiben und oben drauf geben. Bei 200°C OberUnterhitze ca. 30-40 min backen."
+			],
+			"hint": "Vor dem Servieren in der Form etwas auskühlen lassen.",
+			"tags": [
+				"Vegetarisch",
+				"Gemüse",
+				"Lasagne",
+				"Spinat"
+			]
+		},
+		{
+			"name": "Khachapuri mit Käse",
+			"type": "MAIN_DISH",
+			"servings": 3,
+			"preparation_time": "1 h",
+			"backing_time": "20 min",
+			"backing_heat": "200°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/khachapuri.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Topfen",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Emmenthaler",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Bergkäse",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Mozzarella",
+					"amount": 1,
+					"unit": "Pkg."
+				},
+				{
+					"name": "Backpulver",
+					"amount": 1,
+					"unit": "Pkg."
+				},
+				{
+					"name": "Eier",
+					"amount": 3,
+					"unit": "Stk."
+				}
+			],
+			"herbs": [
+				"etwas Lauch"
+			],
+			"preparation_steps": [
+				"Mehl, Topfen und Backpulver vermischen und so viel Wasser zugeben bis es ein schöner Teig wird. Den Teig auf drei Teile teilen, auswalken und den Rand zu einer Schiffsform hochziehen.",
+				"Mozarella würfeln, Bergkäse und Emmentaler reiben und auf den Teig geben. Drüber salzen und Kräuter streuen. In den Ofen geben und ca. 10 bis 12 Minuten backen. In den Schiffen eine kleine Mulde machen und das Ei daraufschlagen. Nochmals ca. 10 Minuten backen.",
+				"Mit klein geschnittenem Lauch garnieren und eventuell kurz Abkühlen lassen."
+			],
+			"hint": "Alternativ zu der Käsefüllung kann auch Faschiertes, eine Topfenfüllung mit Gemüse oder Ähnliches eingefüllt werden.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Zwiebelkuchen",
+			"type": "MAIN_DISH",
+			"servings": 3,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "30 min",
+			"backing_heat": "200°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/zwiebelkuchen.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 350,
+					"unit": "g"
+				},
+				{
+					"name": "Topfen",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Backpulver",
+					"amount": 1,
+					"unit": "Pkg."
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 750,
+					"unit": "g"
+				},
+				{
+					"name": "Käse",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Creme Fraiche",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Ei",
+					"amount": 1,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Salz",
+				"Pfeffer"
+			],
+			"preparation_steps": [
+				"Mehl mit Topfen, Backpulver und Wasser (nach Gefühl) zu einem Pizzateig kneten, auswalken und auf ein Blech legen. Den Rand ein bisschen hochziehen.",
+				"Den Zwiebel schneiden, anbraten und anschließend auf dem Teig verteilen. Das Ei verquirlen, die Creme Fraiche einrühren, salzen und dann auf der Zwiebelschicht verteilen. Zum Schluss den Käse reiben und obenauf verteilen. Im Ofen bei 200°C ca. 30 Minuten backen."
+			],
+			"hint": "Alternativ können 100g Speckwürfel mit dem Zwiebel angebraten werden.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Schafkäse Zucchini Quiche",
+			"type": "MAIN_DISH",
+			"servings": 2,
+			"preparation_time": "2 x 20 min",
+			"backing_time": "1 h 15 min",
+			"backing_heat": "170°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/schafkaesezucchiniquiche.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 130,
+					"unit": "g"
+				},
+				{
+					"name": "Butter",
+					"amount": 65,
+					"unit": "g"
+				},
+				{
+					"name": "Sauerrahm",
+					"amount": 150,
+					"unit": "ml"
+				},
+				{
+					"name": "Schafkäse (Feta)",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Zucchini (ca. 280g)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Eier",
+					"amount": 2,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Käse zum Bestreuen",
+				"Salz",
+				"Pfeffer"
+			],
+			"preparation_steps": [
+				"Für den Teig alle Zutaten miteinander verkneten, eine Kugel formen, in Frischhaltefolie wickeln und ca. 30 Minuten im Kühlschrank ruhen lassen. In der Zwischenzeit die Zucchini längs vierteln, in Scheiben schneiden und anbraten.",
+				"Den Teig etwas größer als die Springform ausrollen und in die Springform legen, einen Rand formen und bei 170°C Heisluft 20 Minuten backen.",
+				"In der Zwischenzeit die Eier trennen, die Eiweiße steif schlagen. Den Schafskäse in kleine Würfel schneiden und mit Eigelben, saurer Sahne, Parmesan und Sonnenblumenkernen verrühren. Mit Salz, Pfeffer und Kräutern der Provence würzen. Zum Schluss die Zucchinischeiben und den Eischnee unterheben.",
+				"Die Springform aus dem Ofen holen und die Schafskäsemasse gleichmäßig darauf verteilen. Für weitere 20 Minuten bei 170°C (Umluft) backen, bis das Ei gestockt ist und die Oberfläche eine schöne braune Farbe angenommen hat."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Käsespätzle",
+			"type": "MAIN_DISH",
+			"servings": 3,
+			"preparation_time": "45 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/kaesespaetzle.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Käse",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser",
+					"amount": 250,
+					"unit": "ml"
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Eier",
+					"amount": 4,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Salz",
+				"Schnittlauch"
+			],
+			"preparation_steps": [
+				"Zwiebel in Streifen schneiden und in einer Pfanne anbraten.",
+				"Aus Mehl, Eier, Wasser und salz einen festen Teig herstellen. Durch eine Spätzlehobel in einen Topf mit kochendem Wasser reiben und kurz kochen lassen.",
+				"Spätzle abseihen und den geriebenen Käse untermischen. Mit Salz und Pfeffer abschmecken und mit Schnittlauch garnieren."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Französische Zwiebelsuppe",
+			"type": "MAIN_DISH",
+			"servings": 2,
+			"preparation_time": "1 h",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/franzoesischezwiebelsuppe.jpg",
+			"ingredients": [
+				{
+					"name": "Zwiebel",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Gemüsesuppe",
+					"amount": 1,
+					"unit": "l"
+				}
+			],
+			"herbs": [
+				"Käse",
+				"Toastbrot"
+			],
+			"preparation_steps": [
+				"Zwiebel in Streifen schneiden und mit etwas Butter oder Öl in einem Topf anschwitzen. Anschließend mit Gemüsesuppe auffüllen.",
+				"Toastbrot mit Käse belegen und im Toaster oder Backrohr toasten. Anschließend jede Scheibe vierteln, sodass vier Dreiecke entstehen. Kurz vor dem Servieren die Käsetoaststücke in die mit der Suppe gefüllten Teller geben."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Semmelknödel mit Champignonsauce",
+			"type": "MAIN_DISH",
+			"servings": 4,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/semmelknoedelchampingnons.jpg",
+			"ingredients": [
+				{
+					"name": "Knödelbrot",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Milch",
+					"amount": 250,
+					"unit": "ml"
+				},
+				{
+					"name": "Mehl",
+					"amount": 2,
+					"unit": "EL"
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Eier",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Champignons",
+					"amount": 400,
+					"unit": "g"
+				},
+				{
+					"name": "Creme Fraiche",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Suppenwürfel",
+					"amount": 1,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Petersilie",
+				"Salz",
+				"Maizena"
+			],
+			"preparation_steps": [
+				"Einen Zwiebel klein schneiden und anbraten. Die Eier zum Knödelbrot geben, Milch dazu, gut umrühren und kurz einziehen lassen. Zwiebel und Mehl unterrühren und Petersilie und Salz dazu. Gut durchkneten und mit nassen Händen Knödel formen. In kochenden Wasser ca. 15 Minuten kochen.",
+				"Den zweiten Zwiebel klein schneiden, Champignons in Scheiben schneiden und gemeinsam anbraten. Einen halben Liter Wasser aufkochen, den Suppenwürfel darin auflösen und damit die Champignons ablöschen. Langsam die Creme Fraiche einrühren und etwas köcheln lassen. Je nachdem wie flüssig die Sauce ist kann sie mit Maizena eingedickt werden."
+			],
+			"hint": "Je mehr Mehl man in den Knödelteig gibt, desto fester werden die Semmelknödel. Wenn sie beim Kochen zerfallen war zu wenig Mehl drinnen.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Wachauer Laberl",
+			"type": "BREAD",
+			"servings": 15,
+			"preparation_time": "1h 30 min",
+			"backing_time": "30 min",
+			"backing_heat": "200°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/wachauerlaberl.jpg",
+			"ingredients": [
+				{
+					"name": "Weizenmehl",
+					"amount": 600,
+					"unit": "g"
+				},
+				{
+					"name": "Roggen- oder Dinkelmehl",
+					"amount": 400,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Backpulver",
+					"amount": 1,
+					"unit": "Msp.."
+				},
+				{
+					"name": "Salz",
+					"amount": 1,
+					"unit": "EL"
+				},
+				{
+					"name": "Brotgewürz",
+					"amount": 4,
+					"unit": "TL"
+				},
+				{
+					"name": "Weinessig",
+					"amount": 3,
+					"unit": "EL"
+				},
+				{
+					"name": "Olivenöl",
+					"amount": 3,
+					"unit": "EL"
+				},
+				{
+					"name": "Trockengerm",
+					"amount": 2,
+					"unit": "Pkg."
+				}
+			],
+			"herbs": [
+
+			],
+			"preparation_steps": [
+				"Mehl, Germ, Salz, Backpulver und Gewürze vermischen. 500ml lauwarmes Wasser, Öl und Essig daz und händisch zu einem Teig kneten.",
+				"Kleine Laberl formen, auf ein Blech legen und mit wasser bepinseln. Anschließend 30 Minuten gehen lassen.",
+				"Eine Schüssel mit Wasser ins Backrohr stellen und die Laberl bei 200°C ca. 30 Minuten backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Amerikanische Bagel",
+			"type": "BREAD",
+			"servings": 8,
+			"preparation_time": "2 h",
+			"backing_time": "15 - 20 min",
+			"backing_heat": "200°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/bagels.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Germ (halber Würfel)",
+					"amount": 21,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser",
+					"amount": 300,
+					"unit": "ml"
+				},
+				{
+					"name": "Salz",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Zucker",
+					"amount": 1,
+					"unit": "EL"
+				},
+				{
+					"name": "Öl",
+					"amount": 2,
+					"unit": "EL"
+				}
+			],
+			"herbs": [
+				"Sesam"
+			],
+			"preparation_steps": [
+				"Alle Zutaten vermischen und zu einem sehr weichen Teig kneten. Den Teig in der Küchenmaschine einige Minuten durchkneten. Anschließend mit etwas mehl bestäuben, abdecken und eine Stunde gehen lassen.",
+				"Den Teig in acht gleich große Stücke teilen und zu runden Weckerl formen. Wenn der Teig sehr weich ist jedes Stück in etwas Mehl wälzen. Mit einem Kochlöfel ein Loch in die Mitte jedes Weckerls stechen und auf ca. 4cm ausweiten. Anschließend mit genug Abstand auf ein Backblech legen und nochmals eine halbe Stunde rasten lassen.",
+				"Nach dem rasten die Bagels mit etwas Wasser bestreichen und Sesam drauf streuen. Bei 200°C Heißluft ca. 15 - 20 Minuten backen, bis die Bagels goldbraun sind."
+			],
+			"hint": "Als süßere Variante können in den Teig Cranberries eingeknetet werden. Für eine pikantere Variante können klein geschnittene und gut angeröstete Zwiebel hinzugefügt werden.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Faltenbrot",
+			"type": "BREAD",
+			"servings": 1,
+			"preparation_time": "1 h",
+			"backing_time": "30 min",
+			"backing_heat": "200°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/faltenbrot.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 600,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser (lauwarm)",
+					"amount": 270,
+					"unit": "ml"
+				},
+				{
+					"name": "Germ",
+					"amount": 42,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 1,
+					"unit": "EL"
+				},
+				{
+					"name": "Salz",
+					"amount": 2,
+					"unit": "TL"
+				},
+				{
+					"name": "Olivenöl",
+					"amount": 50,
+					"unit": "g"
+				},
+				{
+					"name": "Zwiebel (klein)",
+					"amount": 2,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Knoblauchpulver",
+				"Kräuter (Basilikum, Oregano, Thymian, etc.)"
+			],
+			"preparation_steps": [
+				"Die Zwiebel klein würfeln, mit allen anderen Zutaten in eine Schüssel geben und zu einem weichen Germteig verkneten. Den Teig eine halbe Stunde rasten lassen.",
+				"Den Teig dünn ausrollen und in ca 5cm breite Streifen schneiden. Die streifen faltig in einer Springform anordnen. Am Rand anfangen und die Streifen nacheinandern wellig in die Form geben. Es macht nichts, wenn die Streifen umfallen oder Löcher entstehen, da der Teig sehr aufgeht und sich die Streifen dadurch verbinden.",
+				"Das Brot bei 200°C Ober-/Unterhitze ca. 30 Minuten lang backen."
+			],
+			"hint": "Als süße Alternative kann dem Brot Zimt und mehr Zucker hinzugefügt (und die Zwiebeln weggelassen) werden.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Kartoffel Dinkel Weckerl",
+			"type": "BREAD",
+			"servings": 10,
+			"preparation_time": "2 h 30 min",
+			"backing_time": "25 min",
+			"backing_heat": "200°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/kartoffeldinkelweckerl.jpg",
+			"ingredients": [
+				{
+					"name": "Kartoffel",
+					"amount": 300,
+					"unit": "g"
+				},
+				{
+					"name": "Dinkelmehl",
+					"amount": 575,
+					"unit": "g"
+				},
+				{
+					"name": "Salz",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Milch (lauwarm)",
+					"amount": 150,
+					"unit": "ml"
+				},
+				{
+					"name": "Wasser (lauwarm)",
+					"amount": 150,
+					"unit": "ml"
+				},
+				{
+					"name": "Germ (Würfel)",
+					"amount": 1,
+					"unit": ""
+				}
+			],
+			"herbs": [
+
+			],
+			"preparation_steps": [
+				"Germ in großer Schüssel zerbröckeln, Salz dazu und warten, bis es flüssig wird. Währenddessen die Kartoffeln kochen, zerstampfen und abkühlen lassen.",
+				"Zu der flüssigen Germ-Salz-Mischung Wasser und Milch hinzugeben und verrühren. Dann die Kartoffeln einrühren und das Mehl dazu und alles zu einem Teig kneten. Den Teig abgedeckt stehen lassen, bis er merklich aufgegangen ist (ca. eine Stunde oder so).",
+				"Aus dem sehr weichen Teig kleine Stücke mit ca. 100g entnehmen und darauf ein einer bemehlten Arbeitsfläche runde Weckerl formen. Diese auf ein mit Backpapier ausgelegtes Blech legen und mit Mehl bestäuben. Insgesamt ergeben sich aus der Masse ca. 10 Weckerl.",
+				"Die Weckerl bei 200°C Heißluft ca. 25 Minuten backen. Nach der Hälfte der Zeit die Temperatur auf 170°C verringern."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Pesto Brot",
+			"type": "BREAD",
+			"servings": 1,
+			"preparation_time": "1 h 15 min",
+			"backing_time": "15 - 20 min",
+			"backing_heat": "200°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/pestobrot.jpeg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 600,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser",
+					"amount": 325,
+					"unit": "ml"
+				},
+				{
+					"name": "Salz",
+					"amount": 2,
+					"unit": "TL"
+				},
+				{
+					"name": "Zucker",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Öl",
+					"amount": 25,
+					"unit": "ml"
+				},
+				{
+					"name": "Germ (Würfel)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Pesto (rot oder grün)",
+					"amount": 1,
+					"unit": "Glas"
+				}
+			],
+			"herbs": [
+
+			],
+			"preparation_steps": [
+				"Aus allen Zutaten außer dem Pesto einen Germteig herstellen und diese eine Stunde rasten lassen",
+				"Den Teig dritteln und jedes Drittel ausrollen. Ein großes Teller nehmen, auf den Teig legen und jeweils einen großen Kreis ausschneiden.",
+				"Den ersten Kreis auf ein Blech legen und mit Pesto besteichen. Den zweiten Kreis darauf legen und ebenfalls mit Pesto bestreichen. Den letzten Kreis als Abschluss oben drauf legen.",
+				"Den Teig nun wie eine Torte in 16 Teile schneiden, wobei in der mitte ein kleiner Kreis bleiben muss, durch den alle Teile verbunden bleiben.",
+				"Jeden Teil zweimal eindrehen.",
+				"Das Brot auf dem Blech nochmal 15 Minuten rasten lassen und dann bei 200°C Ober- / Unterhitze ca. 15 - 20 Minuten lang backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Fladenbrot",
+			"type": "BREAD",
+			"servings": 4,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "12 - 14 min",
+			"backing_heat": "175°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/fladenbrot.jpg",
+			"ingredients": [
+				{
+					"name": "Weizenmehl",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Germ",
+					"amount": 1,
+					"unit": "Würfel"
+				},
+				{
+					"name": "Milch (lauwarm)",
+					"amount": 130,
+					"unit": "ml"
+				},
+				{
+					"name": "Wasser (lauwarm)",
+					"amount": 200,
+					"unit": "ml"
+				},
+				{
+					"name": "Salz",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Zucker",
+					"amount": 1,
+					"unit": "EL"
+				}
+			],
+			"herbs": [
+				"Olivenöl",
+				"Schwarzkümmel",
+				"Oregano",
+				"Basilikum"
+			],
+			"preparation_steps": [
+				"Mehl und Zucker in eine Schüssel geben, den Germ einbröckeln und vermischen.",
+				"Wasser und Milch vermengen und zwei Drittel der Mischung zu den anderen vermischten Zutaten geben. Alles zu einem festen Teig verkneten und 20 min rasten lassen.",
+				"Anschließend das Salz in die restliche Milch-Wasser-Mischung geben und zu dem Teig geben. Alles mit der Küchenmaschine ca. 10 Minuten durchkneten.",
+				"Der Teig, der dadurch entsteht ist glatt aber sehr klebrig. Den Teig in vier Teile teilen und diese so gut es geht ausziehen. Dazu die Hände mit Mehl einreiben und dann vier quadratische Fladen so dün wie möglich auf einem mit Backpapier belegten Blech flach drücken.",
+				"Die Fladen anschließend nochmal 40 min rasten lassen. Danach die Fladen mit sehr wenig Olivenöl bestreichen und nach Belieben mit Schwarzkümmel oder anderen Gewürzen bestreuen.",
+				"Bei 175°C Heißluft 12 - 14 min goldbraun backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Nuss-Mischbrot",
+			"type": "BREAD",
+			"servings": 1,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "30 min",
+			"backing_heat": "200°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/nussmischbrot.jpg",
+			"ingredients": [
+				{
+					"name": "Dinkelmehl",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Weizenmehl",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser (lauwarm)",
+					"amount": 250,
+					"unit": "ml"
+				},
+				{
+					"name": "Salz",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Walnüsse",
+					"amount": 100,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"halber Würfel Germ"
+			],
+			"preparation_steps": [
+				"Mehl und Salz vermischen. Den Germ im warmen Wasser auflösen und dann alles zu einem Teig kneten.",
+				"Die Nüsse hacken und in den Teig einkneten. Anschließend den Teig eine Stunde rasten lassen.",
+				"Einen Laib formen, auf ein Bleck legen und nochmals 15 min gehen lassen (während das Rohr warm wird).",
+				"Das Brot bei 180°C Ober-/Unterheitze ca. 30 Minuten backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Zwiebelbaguette",
+			"type": "BREAD",
+			"servings": 2,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "40 - 50 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/zwiebelbaguette.jpg",
+			"ingredients": [
+				{
+					"name": "Weizenmehl",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Germ",
+					"amount": 1,
+					"unit": "Würfel"
+				},
+				{
+					"name": "Wasser (lauwarm)",
+					"amount": 300,
+					"unit": "ml"
+				},
+				{
+					"name": "Salz",
+					"amount": 2,
+					"unit": "TL"
+				},
+				{
+					"name": "Zwiebel (groß)",
+					"amount": 3,
+					"unit": ""
+				}
+			],
+			"herbs": [],
+			"preparation_steps": [
+				"Mehl, Salz und den zerbröselten Germ in einer Schüssel vermischen.",
+				"Zwiebel klein schneiden oder hacken und unter die anderen Zutaten einrühren.",
+				"Das Wasser hinzugeben und alles zu einem klebrigen Teig verkneten (bei Bedarf noch Mehl hinzugeben). Den Teig eine Stunde gehen lassen.",
+				"Anschließend aus dem Teig zwei Baguette formen und bei 180°C Ober-/Unterhitze ca. 40 - 50 Minuten backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Kartoffel-Vollkornbrot",
+			"type": "BREAD",
+			"servings": 1,
+			"preparation_time": "1 h 45 min",
+			"backing_time": "20 - 30 min",
+			"backing_heat": "200°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/kartoffelvollkornbrot.jpg",
+			"ingredients": [
+				{
+					"name": "Kartoffel (mehlig)",
+					"amount": 400,
+					"unit": "g"
+				},
+				{
+					"name": "Germ",
+					"amount": 20,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser (lauwarm)",
+					"amount": 150,
+					"unit": "ml"
+				},
+				{
+					"name": "Dinkelvollkornmehl",
+					"amount": 300,
+					"unit": "g"
+				},
+				{
+					"name": "Weizenmehl",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Salz",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Brotgewürz",
+					"amount": 2,
+					"unit": "TL"
+				}
+			],
+			"herbs": [],
+			"preparation_steps": [
+				"Kartoffeln schälen, kochen und pürieren.",
+				"Den Germ im lauwarmen Wasser auflösen gemeinsam mit Mehl, Salz, Brotgewürz und den Kartoffeln zu einem Teig verkneten. Den Teig eine Stunde rasten lasten.",
+				"Anschließend im Ofen bei 200°C Heißluft ca. 20 - 30 Minuten backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Schoko Topfen Zwetschgen Torte",
+			"type": "CAKE",
+			"servings": 1,
+			"preparation_time": "2 h 30 min",
+			"backing_time": "30 min",
+			"backing_heat": "170°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/zwetschgenschokotopfentorte.jpg",
+			"ingredients": [
+				{
+					"name": "Weiche Butter",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Mehl",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Orangen Zartbitterschokolade",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Milch",
+					"amount": 50,
+					"unit": "ml"
+				},
+				{
+					"name": "Packpulver",
+					"amount": 1,
+					"unit": "Pkg."
+				},
+				{
+					"name": "Eier",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Topfen",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Joghurt",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Vaniellezucker",
+					"amount": 1,
+					"unit": "Pgk."
+				},
+				{
+					"name": "Gelatineblätter",
+					"amount": 10,
+					"unit": ""
+				},
+				{
+					"name": "Zwetschgen",
+					"amount": 400,
+					"unit": "g"
+				},
+				{
+					"name": "Gelatineblätter",
+					"amount": 5,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Zimt",
+				"Zucker"
+			],
+			"preparation_steps": [
+				"Butter und Zucker verrühren. Eier einrühren. Mehl und Backpulver einrühren. Schokolade schmelzen und einrühren. Je nach Bedarf noch die Milch dazu. In Eine Tortenform geben und bei 170°C ca. 30 min backen. Anschließend auskühlen lassen.",
+				"Den Topfen mit dem Joghurt verrühren, Vanillezucker unterrühren und evtl. noch mit normalen Zucken abschmecken. 10 Gelatineblätter einweichen und dann in etwas kochenden Wasser auflösen. Die Flüssigkeit einrühren, kurz etwas fest werden lassen und dann auf den Tortenboden geben. Anschließend ganz aushärten lassen (evtl. im Kühlschrank).",
+				"Für den Zwetschgenröster die Zwetschgen in etwas Wasser weichdünsten, mit Zimt und Zucker abschmecken und mit Gelatine festigen. Auf dem Topfenbelag verstreichen und aushärten lassen."
+			],
+			"hint": "Alternativ kann die Zwetschgencreme auch mit Apfelmus gestreckt werden.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Cheesecake",
+			"type": "CAKE",
+			"servings": 1,
+			"preparation_time": "1 h",
+			"backing_time": "45 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/cheescake.jpg",
+			"ingredients": [
+				{
+					"name": "Weiche Butter",
+					"amount": 40,
+					"unit": "g"
+				},
+				{
+					"name": "Mehl",
+					"amount": 70,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 30,
+					"unit": "g"
+				},
+				{
+					"name": "Topfen",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Mehl",
+					"amount": 22,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 40,
+					"unit": "g"
+				},
+				{
+					"name": "Eier",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Milch",
+					"amount": 10,
+					"unit": "ml"
+				},
+				{
+					"name": "Butter (zerlassen)",
+					"amount": 30,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"Beeren"
+			],
+			"preparation_steps": [
+				"Aus den erstenannten drei Zutaten (Butter, Mehl, Zucker) Streusel machen und diese in einer kleinen Tortenform zu einem Boden drücken. Anschließend in den Kühlschrank stellen.",
+				"Eigelb, Topfen, Mehl, Zucker, Milch und zerlassen Butter verrühren. Eiweiß zu Schnee schlagen und vorsichtig unterheben. Zum Schluss die Beeren einrühren und alles in die Tortenform geben.",
+				"Bei 180°C Ober- / Unterhitze ca. 45min backen."
+			],
+			"hint": "Rezept ist für eine kleine Tortenform.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Kirschen Pudding Streusel Kuchen",
+			"type": "CAKE",
+			"servings": 1,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "45 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/kirschenpuddingstreuselkuchen.jpg",
+			"ingredients": [
+				{
+					"name": "Weiche Butter",
+					"amount": 65,
+					"unit": "g"
+				},
+				{
+					"name": "Mehl",
+					"amount": 160,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 65,
+					"unit": "g"
+				},
+				{
+					"name": "Ei",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Milch",
+					"amount": 500,
+					"unit": "ml"
+				},
+				{
+					"name": "Vanillepudding",
+					"amount": 1,
+					"unit": "Pkg."
+				},
+				{
+					"name": "Mehl",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Butter",
+					"amount": 60,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 50,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"Zucker",
+				"Kirschen"
+			],
+			"preparation_steps": [
+				"Aus den erstgenannten Zutaten einen Mürbeteig herstellen und in eine gefettete Springform geben. Einen kleinen Rand formen.",
+				"Aus dem Puddingpulver, der Milch und dem Zucker nach Packungsanweisung einen Pudding kochen und etwas erkalten lassen. Den Pudding auf den Mürbeteigboden streichen.",
+				"Die Kirschen auf der Puddingschicht verteilen. Die letztgenannten Zutaten zu Streuseln verarbeiten und über das Obst geben. Bei 180°C ca. 45 Minuten backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Topfen Pfirsich Torte",
+			"type": "CAKE",
+			"servings": 1,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "30 min",
+			"backing_heat": "175°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/topfenpfirsichtorte.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 2,
+					"unit": "Becher"
+				},
+				{
+					"name": "Zucker (1,5 Becher)",
+					"amount": 1,
+					"unit": "Becher"
+				},
+				{
+					"name": "Öl (1,5 Becher)",
+					"amount": 1,
+					"unit": "Becher"
+				},
+				{
+					"name": "Mineralwasser (1,5 Becher)",
+					"amount": 1,
+					"unit": "Becher"
+				},
+				{
+					"name": "Backpulver",
+					"amount": 1,
+					"unit": "Pkg."
+				},
+				{
+					"name": "Eier",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Topfen",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Sauerrahm",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Vaniellezucker",
+					"amount": 1,
+					"unit": "Pkg."
+				},
+				{
+					"name": "Gelatinblätter",
+					"amount": 10,
+					"unit": ""
+				},
+				{
+					"name": "Pfirsiche (groß)",
+					"amount": 1,
+					"unit": "Dose"
+				}
+			],
+			"herbs": [
+				"Zucker"
+			],
+			"preparation_steps": [
+				"Alle erstgenannten Zutaten mixen und in eine Tortenform geben. Bei 175°C ca. 30 Minuten backen. Anschließend abkühlen lassen.",
+				"Topfen und Sauerrahm verrühren und mit Zucker und Vanillezucker abschmecken. Pfirsiche in kleine Stücke schneiden und unterrühren. 10 Blätter Gelatine einweichen, in etwas erhitzten Wasser auflösen und in die Mischung einrühren. Kurz abkühlen lassen und auf dem Tortenboden verteilen. Ein paar Pfirsiche können oben als Dekoration plaziert werden."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Mannerschnittentorte",
+			"type": "CAKE",
+			"servings": 1,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "30 min",
+			"backing_heat": "175°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/mannerschnittentorte.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Butter",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Kakao",
+					"amount": 30,
+					"unit": "g"
+				},
+				{
+					"name": "Milch",
+					"amount": 75,
+					"unit": "ml"
+				},
+				{
+					"name": "Eier",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Topfen",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Joghurt",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Mannerschnitten",
+					"amount": 3,
+					"unit": "Pkg."
+				},
+				{
+					"name": "Gelatineblätter",
+					"amount": 10,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Zucker",
+				"Schokolade",
+				"Butter"
+			],
+			"preparation_steps": [
+				"Von den erstgenannten Zutaten Butter und Zucker verrühren. Die Eier dazugeben und verrühren. Kakao und Milch dazu und zuletzt noch die Milch einrühren. In eine Tortenform geben und bei 170°C ca 30 Minuten backen.",
+				"Topfen und Joghurt vermischen. Ca. zwei Packungen Mannerschnitten klein schneiden, in die Masse einrühren und evtl. mit Zucker abschmecken. 10 Gelatineblätter einweichen, in heißen Wasser aufösen und einrühren. Die Masse auf der Torte verteilen und aushärten lassen.",
+				"Aus Schokolade und Butter eine Schokoglasur herstellen. Die Torte aus der Form nehmen und mit Schokolade überziehen. Als Dekoration in die noch weiche Schokolade Mannerschnitten stecken."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Mohnstrudel",
+			"type": "CAKE",
+			"servings": 1,
+			"preparation_time": "30 min",
+			"backing_time": "20 - 25 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/mohnstrudel.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 20,
+					"unit": "g"
+				},
+				{
+					"name": "Weiche Butter",
+					"amount": 40,
+					"unit": "g"
+				},
+				{
+					"name": "Germ",
+					"amount": 1,
+					"unit": "Würfel"
+				},
+				{
+					"name": "Milch",
+					"amount": 200,
+					"unit": "ml"
+				},
+				{
+					"name": "Ei",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Salz",
+					"amount": 1,
+					"unit": "Prs."
+				},
+				{
+					"name": "Mohnfülle",
+					"amount": 1,
+					"unit": "Pkg."
+				}
+			],
+			"herbs": [],
+			"preparation_steps": [
+				"Alle Zutaten zu einem Germteig kneten und diese 45 min gehen lassen.",
+				"Anschließend ausrollen, die Mohnfülle darauf verstreichen und einrollen. Die Teigrolle der Länge nach aufschneiden und die beiden Stränge flechten.",
+				"Auf ein Blech legen und bei 180°C Heißluft ca. 20 bis 25 min backen."
+			],
+			"hint": "In die Mohnmischung könne zusätzlich auch Zimt und gehackte Mandeln gemischt werden.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Pecan Pie",
+			"type": "CAKE",
+			"servings": 1,
+			"preparation_time": "1h 30 min",
+			"backing_time": "45 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/pecanpie.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker (weiß)",
+					"amount": 50,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker (braun)",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Pekannüsse",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "kalte Butter",
+					"amount": 120,
+					"unit": "g"
+				},
+				{
+					"name": "weiche Butter",
+					"amount": 70,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser (kalt)",
+					"amount": 70,
+					"unit": "ml"
+				},
+				{
+					"name": "Ahornsirup",
+					"amount": 130,
+					"unit": "g"
+				},
+				{
+					"name": "Eier",
+					"amount": 2,
+					"unit": "Stk."
+				}
+			],
+			"herbs": ["Salz", "Zimt", "Kardamom"],
+			"preparation_steps": [
+				"Für den Teig Mehl, den weißen Zucker und eine Prise Sazl in einer Schüssel mischen.",
+				"Die kalte Butter in Stücken und Wasser hinzugeben. Alles rasch zu einem glatten Teig kneten und dann abgedeckt 30min kaltstellen.",
+				"Anschließend den Teig rund für eine 24cm Tarteform ausrollen (Form einfetten) und in der Form mit seiner Gabel mehrmals einstechen. Dann wieder kaltstellen.",
+				"Für die Füllung Ahornsirup, den braunen Zucker und die warme Butter in einem Topf kurz sprudeln aufkochen lassen und danach abkühlen lassen.",
+				"Eier, 2EL Zucker und 2 Prisen Salz für 2min schaumig schlagen und dann in die Sirupmischung einrühren.",
+				"Die Pekannüsse untermischen, mit Zimt oder Kardamom verfeinern, und dann in die Tarteform auf den Teig geben.",
+				"Bei 180°C Ober-/Unterhitze ca. 45min backen. Darauf achten, dass sie oben nicht zu dunkel bzw. fest wird."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Linzer Torte",
+			"type": "CAKE",
+			"servings": 1,
+			"preparation_time": "1h",
+			"backing_time": "25 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/linzertorte.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 300,
+					"unit": "g"
+				},
+				{
+					"name": "Backpulver",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Zucker",
+					"amount": 120,
+					"unit": "g"
+				},
+				{
+					"name": "Haselnüsse (gemahlen)",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Zimt",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Nelken (gemahlen)",
+					"amount": 1,
+					"unit": "Prise"
+				},
+				{
+					"name": "Kardamom (gemahlen)",
+					"amount": 1,
+					"unit": "Prise"
+				},
+				{
+					"name": "Salz",
+					"amount": 1,
+					"unit": "Prise"
+				},
+				{
+					"name": "Eier",
+					"amount": 2,
+					"unit": "Stk."
+				},
+				{
+					"name": "weiche Butter",
+					"amount": 170,
+					"unit": "g"
+				},
+				{
+					"name": "Milch",
+					"amount": 1,
+					"unit": "EL"
+				}
+			],
+			"herbs": ["Marmelade"],
+			"preparation_steps": [
+				"Mehl, Salz, Backpulver, Haselnüsse, Zucker und Gewürze vermischen",
+				"Eines der Eier trennen, Eigelb für später beiseite stellen. Das Eiweiß, das zweite Ei und die Butter zu den trockenen Zutaten geben und alles rasch zu einem glatten Teig kneten. Für 30min kaltstellen.",
+				"Die Hälfte des Teiges ausrollen und und mit einer 26cm Springform rund ausstechen. Den kreisförmigen Teig mit einem Pizzaschneider in Streifen schneiden.",
+				"Den restlichen Teig etwas ausrollen und mit einem 2cm Rand in die Form drücken.",
+				"Großzügig Marmelade auf dem Teigboden verstreichen. Danach die Teigstreigen gitterförmig darauf legen und am Rand etwas fest drücken",
+				"Bei 180°C Ober-/Unterhitze ca. 25min backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Schoko Haselnuss Kugerl",
+			"type": "CAKE",
+			"servings": 20,
+			"preparation_time": "30 min",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/schokohaselnusskugerl.jpg",
+			"ingredients": [
+				{
+					"name": "Schokolade (dunkel)",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Marmelade",
+					"amount": 30,
+					"unit": "g"
+				},
+				{
+					"name": "Geriebene Haselnüsse",
+					"amount": 120,
+					"unit": "g"
+				},
+				{
+					"name": "Kakao",
+					"amount": 20,
+					"unit": "g"
+				}
+			],
+			"herbs": [],
+			"preparation_steps": [
+				"Schokolade schmelzen und das Kakoapulver einrühren. Anschließend 100g Haselnüsse und die Marmelade einrühren und alles zu einem fesen Teig verrühren.",
+				"Aus der Masse Kugerl formen und in den restlichen Haselnüssen wälzen.",
+				"Die fertigen Kugerln im Kühlschrank aushärten lassen."
+			],
+			"hint": "Die Kugerl können auch zB. in Kokosflocken oder buntem Zucker gewälzt werden.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Heinerle",
+			"type": "CAKE",
+			"servings": 40,
+			"preparation_time": "30 min",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/heinerle.png",
+			"ingredients": [
+				{
+					"name": "Schokolade",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Nuss-Nougat (schnittfest)",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Milch",
+					"amount": 40,
+					"unit": "ml"
+				}
+			],
+			"herbs": ["Backoblaten (eckig)"],
+			"preparation_steps": [
+				"Schokolade und Nougat in Stücke schneiden und gemeinsam mit der Milch über dem Wasserbad schmelzen.",
+				"Die Masse ggf. etwas auskühlen lassen und dann schichtweise auf den Oblatten auftragen.",
+				"Die Masse reicht ca. für 5 Oblatten-Schichten.",
+				"Die Heinerle kalt stellen bevor sie in Stücke geschnitten werden."
+		
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Schoko Mandel Torte",
+			"type": "CAKE",
+			"servings": 1,
+			"preparation_time": "45 min",
+			"backing_time": "35 - 40 min",
+			"backing_heat": "175°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/schokomandeltorte.jpg",
+			"ingredients": [
+				{
+					"name": "Butter",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Zartbitterschokolade",
+					"amount": 225,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser",
+					"amount": 3,
+					"unit": "EL"
+				},
+				{
+					"name": "Brauner Zucker",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Mandeln (gemahlen)",
+					"amount": 30,
+					"unit": "g"
+				},
+				{
+					"name": "Mandeln (gehackt)",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Mehl",
+					"amount": 3,
+					"unit": "EL"
+				},
+				{
+					"name": "Eier",
+					"amount": 5,
+					"unit": ""
+				},
+				{
+					"name": "Backpulver",
+					"amount": 1,
+					"unit": "Msp"
+				}
+			],
+			"herbs": [
+				"Staubzucker"
+			],
+			"preparation_steps": [
+				"Schokolade + Wasser in einem Topf erhitzen und schmelzen, Zucker einrühren und dann vom Herd nehmen",
+				"Butter nach und nach in die heiße Schokolade einrühren. Anschließend Mehl, geriebene Mandeln und Backpulver dazu.",
+				"Eier trenne und einzeln die Dotter einrühren. Schnee schlagen und vorsichtig unterheben. Zum Schluss die gehackten Mandeln einmischen.",
+				"Bei 175°C Ober-/Unterhitze ca. 35 - 40 Minuten backen."
+			],
+			"hint": "Vor dem Servieren mit Staubzucker bestreuen.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Buchteln",
+			"type": "CAKE",
+			"servings": 8,
+			"preparation_time": "2 h 30 min",
+			"backing_time": "15 - 20 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/buchteln.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Germ",
+					"amount": 42,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Milch",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Weiche Butter",
+					"amount": 80,
+					"unit": "g"
+				},
+				{
+					"name": "Eier",
+					"amount": 2,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Marmelade (fest)"
+			],
+			"preparation_steps": [
+				"Den Germ in der der Milch aufösen. Mehl, Zucker, Butter und Eier etwas vermischen. Das Milch-Germ-Gemisch dazugeben und zu einem weichen Teig verkneten. Anschließend ca. eine Stunde gehen lassen.",
+				"Eine Auflaufform einfetten. Vom Teig etwa tennisballgroße Kugeln formen, flachdrücken, in der Mitte einen Teelöffel Marmelade geben und dann den Teig rundherum zusammendrücken. Den Ballen in die Form geben und weitere Ballen eng aneinander drücken.",
+				"Wenn alle Buchteln in der Form sind die Oberfläche mit Milch einpinseln und bei 180°C Heißluft ca. 15 - 20 Minuten backen."
+			],
+			"hint": "Mit Vanillesauce servieren.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Erdbeerknödel mit Topfenteig",
+			"type": "CAKE",
+			"servings": 2,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/erdbeerknoedel.jpg",
+			"ingredients": [
+				{
+					"name": "Topfen",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Mehl",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Butter (zerlassen)",
+					"amount": 40,
+					"unit": "g"
+				},
+				{
+					"name": "Ei",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Erdbeeren",
+					"amount": 20,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Grieß",
+				"Semmelbrösel",
+				"Zucker"
+			],
+			"preparation_steps": [
+				"Topfen, Butter, Ei und Salz mit dem Mixer verrühren und das Mehl (evtl. mit Grieß) dazurühren und zu einer festen Masse kneten. Teig darf durchaus etwas klebrig sein.",
+				"Kleine Stücke von dem Teig nehmen und die Erdbeeren damit ummanteln. Teig kann gut rundherum gezogen und gerollt werden. Die fertigen Knödel in kochendes Wasser geben und ca. 15 Minuten kochen.",
+				"Während die Knödel kochen in einer Pfanne die Semmelbrösel anrösten bis sie dunkel werden. Hitze zurückdrehen und nach belieben Zucker dazumischen. Wenn die Knödel fertig sind abtropfen und in den Semmelbrösel wälzen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Germteigschnecken",
+			"type": "CAKE",
+			"servings": 15,
+			"preparation_time": "20 min",
+			"backing_time": "15 min",
+			"backing_heat": "200°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/germteigschnecken.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 350,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser",
+					"amount": 150,
+					"unit": "ml"
+				},
+				{
+					"name": "Zucker",
+					"amount": 2,
+					"unit": "EL"
+				},
+				{
+					"name": "Trockengerm",
+					"amount": 1,
+					"unit": "Pkg."
+				},
+				{
+					"name": "Ei",
+					"amount": 1,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Marmelade (fest)",
+				"Zimt"
+			],
+			"preparation_steps": [
+				"Mehl, Wasser, Zucker, Germ und das Ei vermischen und zu einem weichen Teig verkneten. Diesen ca. eine Stunde gehen lassen.",
+				"Den Teig länglich auswalken und mit einer nicht zu weichen Marmelade bestreichen und mit Zimt bestreuen.",
+				"Anschließend den Teig der Länge nach zusammenrollen und kleine Schnecken herunterschneiden. Bei 200°C Ober- / Unterhitze ca. 15 Minuten lang backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Kaiserschmarrn",
+			"type": "CAKE",
+			"servings": 2,
+			"preparation_time": "30 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/kaiserschmarrn.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Milch",
+					"amount": 250,
+					"unit": "ml"
+				},
+				{
+					"name": "Butter (zerlassen)",
+					"amount": 50,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 50,
+					"unit": "g"
+				},
+				{
+					"name": "Eier",
+					"amount": 4,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Staubzucker"
+			],
+			"preparation_steps": [
+				"Eier trennen. Dotter mit Mehl, Milch, Zucker und der zerlassenen Butter gut mixen. Aus dem Eigelb Schnee schlagen und vorsichtig der anderen Masse unterheben.",
+				"Die Masse wie Palatschinken in der Pfanne machen und die Palatschinken anschließend in kleine Stücke zerreißen.",
+				"Mit Apfelmus servieren."
+			],
+			"hint": "Kurz vor dem Servieren mit Staubzucker bestäuben.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Haferflocken Cranberry Kuchen",
+			"type": "CAKE",
+			"servings": 1,
+			"preparation_time": "30 min",
+			"backing_time": "45 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/haferflockencraneberrykuchen.jpg",
+			"ingredients": [
+				{
+					"name": "Haferflocken",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Mehl",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 50,
+					"unit": "g"
+				},
+				{
+					"name": "Milch",
+					"amount": 10,
+					"unit": "EL"
+				},
+				{
+					"name": "Eier",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Cranberries",
+					"amount": 50,
+					"unit": "g"
+				},
+				{
+					"name": "Schokolade (geschnitten)",
+					"amount": 100,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"Halbe Pkg. Backpulver"
+			],
+			"preparation_steps": [
+				"Alle Zutaten in eine Schüssel geben und zu einem festen, klebrigen Teig verarbeiten.",
+				"Den Teig in eine Kastenform geben und bei 180°C Ober- / Unterhitze ca. 45 Minuten lang backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Hausfreund (von Wiener Oma)",
+			"type": "CAKE",
+			"servings": 1,
+			"preparation_time": "30 min",
+			"backing_time": "20 min",
+			"backing_heat": "175°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/hausfreundwroma.jpg",
+			"ingredients": [
+				{
+					"name": "Nüsse",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Mehl",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Rosinen",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Eier",
+					"amount": 3,
+					"unit": ""
+				}
+			],
+			"herbs": [
+
+			],
+			"preparation_steps": [
+				"Die Nüsse zerhacken oder klein schneiden und zusammen mit Mehl, Zucker und den Rosinen vermischen.",
+				"Die Eier trennen, die Dotter zu den trockenen Zutaten geben und aus dem Eiklar Schnee schlagen.",
+				"Den Schnee vorsichtig in die trockene Mischung einrühren und alles auf einem mit Backpapier ausgelegtem Blech verstreichen.",
+				"Bei 175°C Ober-/Unterhitze 20 Minuten backen. Anschließend in noch warmen Zustand in kleine Stücke schneiden (geht am einfachsten mit einem Pizzarad)."
+			],
+			"hint": "Nüsse und Rosinen können alternativ auch durch Mandeln und Craneberries ersetzt werden.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Zimtschnecken Keks",
+			"type": "CAKE",
+			"servings": 1,
+			"preparation_time": "60 min",
+			"backing_time": "12 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/zimtschneckenkeks.jpg",
+			"ingredients": [
+				{
+					"name": "Butter",
+					"amount": 120,
+					"unit": "g"
+				},
+				{
+					"name": "Frischkäse",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 180,
+					"unit": "g"
+				},
+				{
+					"name": "Vanillezucker",
+					"amount": 1,
+					"unit": "Pkg."
+				},
+				{
+					"name": "Eigelb",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Mehl",
+					"amount": 360,
+					"unit": "g"
+				},
+				{
+					"name": "Backpulver",
+					"amount": 1,
+					"unit": "Pkg."
+				},
+				{
+					"name": "Zimt",
+					"amount": 4,
+					"unit": "TL"
+				}
+			],
+			"herbs": [
+
+			],
+			"preparation_steps": [
+				"100g Butter mit dem Frischkäse verrühren. 80g Zucker, Vanillezucker und Eigelb hinzugeben, dann Mehl und Backpulver",
+				"Alles zu einem geschmeidigen Teig verkneten und quadratisch ausrollen.",
+				"20g Butter schmelzen und den Teig damit besteichen.",
+				"Ca. 100g Zucker mit dem Zimt vermischen und auf dem Teig verteilen.",
+				"Den Teig halbieren und der Länge nach auf zwei große Rollen einrollen (so eng und fest wie möglich).",
+				"Den Teig mindestens 2h im Kühlschrank kalt stellen.",
+				"Anschließend die Rollen auf ca. 0,5cm dicke Schnecken schneiden und auf Bleche legen.",
+				"Bei 180°C Heißluft 10 - 12 Minuten Backen. Auf dem Bleck auskühlen lassen bis die Schnecken hart geworden sind."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Nürnberger Elisenlebkuchen",
+			"type": "CAKE",
+			"servings": 50,
+			"preparation_time": "60 min",
+			"backing_time": "20 min",
+			"backing_heat": "150°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/nuernbergerlebkuchen.jpeg",
+			"ingredients": [
+				{
+					"name": "Zucker (braun)",
+					"amount": 180,
+					"unit": "g"
+				},
+				{
+					"name": "Honig",
+					"amount": 2,
+					"unit": "EL"
+				},
+				{
+					"name": "Zimt",
+					"amount": 2,
+					"unit": "TL"
+				},
+				{
+					"name": "Lebkuchengewürz",
+					"amount": 2,
+					"unit": "TL"
+				},
+				{
+					"name": "Mandeln (gerieben)",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Haselnüsse (gerieben)",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Orangeat",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Zitronat",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Eier",
+					"amount": 6,
+					"unit": ""
+				},
+				{
+					"name": "Kuvertüre",
+					"amount": 200,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"Prise Salz", 
+				"Oblaten (90mm)",
+				"Deko zum Verzieren"
+			],
+			"preparation_steps": [
+				"Eier, Zucker und Honig schaumig schlagen.",
+				"Orangeat und Zitronat evtl. noch etwas klein hacken und mit allen anderen Zutaten zu einem festen Teig verrühren.",
+				"Mit einem Teelöffel auf die Oblatten portieonieren.",
+				"Im Ofen bei 150°C Heißluft ca. 20min backen.",
+				"Die Lebkuchen auskühlen lassen, mit Kuvertüre überziehen und verzieren."
+			],
+			"hint": "Statt Lebkuchengewürz kann auch Spekulatiusgewürz verwendet werden.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Apfelstrudel",
+			"type": "CAKE",
+			"servings": 1,
+			"preparation_time": "30 min",
+			"backing_time": "25 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/apfelstrudel.jpg",
+			"ingredients": [
+				{
+					"name": "Äpfel",
+					"amount": 800,
+					"unit": "g"
+				},
+				{
+					"name": "Nüsse (gerieben)",
+					"amount": 75,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 40,
+					"unit": "g"
+				},
+				{
+					"name": "Blätterteig",
+					"amount": 1,
+					"unit": "Stk."
+				}
+			],
+			"herbs": [
+				"Zimt"
+			],
+			"preparation_steps": [
+				"Äpfel schälen und in kleine Stücke schneiden.",
+				"Die geriebenen Nüsse und den Zucker unter die Äpfel mischen und nach Belieben mit Zimt abschmecken.",
+				"Alles auf einem Blätterteig verteilen und bei Ober-/Unterhitze ca. 20 bis 25 Minuten backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Haselnussmakronen",
+			"type": "CAKE",
+			"servings": 30,
+			"preparation_time": "30 min",
+			"backing_time": "15 - 20 min",
+			"backing_heat": "170°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/haselnussmakronen.jpg",
+			"ingredients": [
+				{
+					"name": "Haselnüsse (gerieben)",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Rohrzucker",
+					"amount": 120,
+					"unit": "g"
+				},
+				{
+					"name": "Mehl",
+					"amount": 3,
+					"unit": "EL"
+				},
+				{
+					"name": "Öl",
+					"amount": 1,
+					"unit": "EL"
+				},
+				{
+					"name": "Wasser (lauwarm)",
+					"amount": 7,
+					"unit": "EL"
+				},
+				{
+					"name": "Backpulver",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Salz",
+					"amount": 1,
+					"unit": "Prise"
+				}
+			],
+			"herbs": [
+				"Backoblaten"
+			],
+			"preparation_steps": [
+				"Alle Zutaten vermischen und zu einem klebrigen Teig verrühren.",
+				"Die Masse auf Backoblaten verteilen und auf einem Blech auflegen.",
+				"Bei 170°C Ober- / Unterhitze ca. 15 bis 20 Minuten backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Müsliriegel mit Bananen",
+			"type": "CAKE",
+			"servings": 15,
+			"preparation_time": "30 min",
+			"backing_time": "25 - 30 min",
+			"backing_heat": "170°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/muesliriegelmitbananen.jpg",
+			"ingredients": [
+				{
+					"name": "Bananen (reif)",
+					"amount": 3,
+					"unit": ""
+				},
+				{
+					"name": "Haferflocken",
+					"amount": 2,
+					"unit": "Tassen"
+				},
+				{
+					"name": "Mandeln",
+					"amount": 1,
+					"unit": "Tasse"
+				},
+				{
+					"name": "Craneberries",
+					"amount": 1,
+					"unit": "Tasse"
+				}
+			],
+			"herbs": [
+				"Zimt",
+				"evtl. Honig, Ahornsirup oder Zucker"
+			],
+			"preparation_steps": [
+				"Die Bananen in eine Schüssel geben und mit der Gabel zu einem Brei zerdrücken.",
+				"Mandeln und Craneberries klein schneiden zu den Bananen geben. Die Haferflocken dazu und alles zu einem weichen, klebrigen Teig verrühren.",
+				"Mit Zimt abschmecken. Die Masse ist duch die Bananen schon süß, wem das zu wenig ist, der kann ggf. mit Honig, Ahornsirup oder Zucker nachsüßen.",
+				"Die Masse auf ein mit Backpapier ausgelegtes Backblech geben und zu einem ca. 2 cm hohen Rechteck ausstreichen.",
+				"Bei 180°C Ober-/Unterhitze ca. 25 - 30 min backen. Anschließend noch in warmen Zustand in Riegel schneiden."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Schoko Orangen Kekse",
+			"type": "CAKE",
+			"servings": 25,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "10 min",
+			"backing_heat": "175°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/orangenschokokekse.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Speisestärke",
+					"amount": 60,
+					"unit": "g"
+				},
+				{
+					"name": "Backpulver",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Zucker",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Vanillezucker",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Weiche Butter",
+					"amount": 125,
+					"unit": "g"
+				},
+				{
+					"name": "Zartbitterschokolade",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Orange",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Ei",
+					"amount": 1,
+					"unit": ""
+				}
+			],
+			"herbs": [
+
+			],
+			"preparation_steps": [
+				"Mehl, Speisestärke, Backpulver, Zucker und Vanillezucker vermischen. Die Schale der Orange abreiben und hineingeben. Die restliche Orange ausdrücken und Saft und Fruchtfleisch dazu. Die weiche Butter dazugeben und alles mit dem Knethaken zu einem festen Teig kneten.",
+				"Die Schokolade klein schneiden und dazukneten. Den Teig in ca 3cm dicke Rollen formen und flach drücken. Kalt stellen bis der Teig hart geworden ist (kann auch über Nacht stehen).",
+				"Die Rollen in Streifen mit ca. einem halben Zentimeter Stärke schneiden, auf ein Blech auflegen und bei 175°C ca. 10 Minuten backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Kürbis Chocolate Chip Haferflocken Cookies",
+			"type": "CAKE",
+			"servings": 20,
+			"preparation_time": "30 min",
+			"backing_time": "15 - 20 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/kuerbishaferflockencookies.jpg",
+			"ingredients": [
+				{
+					"name": "Kürbispüree",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Haferflocken",
+					"amount": 120,
+					"unit": "g"
+				},
+				{
+					"name": "Mehl",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Backpulver",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Zimt",
+					"amount": 2,
+					"unit": "TL"
+				},
+				{
+					"name": "Ahornsirup",
+					"amount": 100,
+					"unit": "ml"
+				},
+				{
+					"name": "Salz",
+					"amount": 1,
+					"unit": "Prise"
+				},
+				{
+					"name": "Kokosfett (geschmolzen)",
+					"amount": 30,
+					"unit": "g"
+				},
+				{
+					"name": "Schokolade (gehackt)",
+					"amount": 50,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+
+			],
+			"preparation_steps": [
+				"Alle Zutaten bis auf die Schokolade in eine Schüssel geben und gut verrühren. Den Teig etwa 10 Minuten stehen lassen. Wenn die Masse wegen des geschmolzenen Kokosfetts noch sehr warm ist noch länger stehen lassen, da sonst die Schokolade soft schmilzt.",
+				"Wenn die Maße genug ausgekühlt ist die geschnittene Schokolade einrühren.",
+				"Auf deinem Backblech mit einem Löffel kleine Cookies formen und bei 180°C Heißluft ca. 15 - 20 Minuten (je nach Größe der Cookies) backen."
+			],
+			"hint": "Für eine scharfe Variante kann ein Teelöffel Ingwerpulver in den Teig gemischt werden.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Linzerstangerl",
+			"type": "CAKE",
+			"servings": 20,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "10 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/linzerstangerl.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 350,
+					"unit": "g"
+				},
+				{
+					"name": "Weiche Butter",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Staubzucker",
+					"amount": 120,
+					"unit": "g"
+				},
+				{
+					"name": "Eier",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Zimt",
+					"amount": 1,
+					"unit": "Prise"
+				}
+			],
+			"herbs": [
+				"Marmelade (Marille)",
+				"Schokolade"
+			],
+			"preparation_steps": [
+				"Die Butter aus dem Kühlschrank nehmen und je nach Raumtemperatur mehrere Stunden warm und weich werden lassen. Wenn die Butter zu fest ist lässt sie sich sehr schwer durch den Spritzsack pressen.",
+				"Alle Zutaten mit dem Knethacken verkneten. In den Spritzsack füllen und am Blech aufspritzen. Bei 180°C ca. 10 bis 12 Minuten backen.",
+				"Die Stangerl auskühlen lassen. Anschließend mit Marmelade bestreichen, zusammenkleben und in Schokoladenglasur tunken. Auf einem umgedrehten Ofenrost aushärten lassen."
+			],
+			"hint": "Wenn der Teig im Spritzsack zu fest ist evtl. noch weiter erwärmen lassen. Je wärmer und dadurch weicher die Butter ist, desto leichter lässt sich der Teig aufspritzen.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Zucchinisuppe",
+			"type": "SOUP",
+			"servings": 2,
+			"preparation_time": "45 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/zucchinisuppe.jpg",
+			"ingredients": [
+				{
+					"name": "Zucchini",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Gemüsesuppe",
+					"amount": 375,
+					"unit": "ml"
+				},
+				{
+					"name": "Zwiebel (groß)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Knoblauchzehe",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Toastbrot",
+					"amount": 2,
+					"unit": "Scheiben"
+				}
+			],
+			"herbs": [
+				"Sauerrahm",
+				"Salz",
+				"Pfeffer",
+				"Kräuter"
+			],
+			"preparation_steps": [
+				"Zucchini in Stücke schneiden und in einem Topf weich kochen. Währenddessen Zwiebel und Knoblauch klein schneiden und in einer Pfanne anschwitzen.",
+				"Zwiebel und Knoblauch zu den weichen Zucchinistücken geben und mit einem Stabmixer pürieren. Mit etwas Suppe aufgießen. Das Toastbrot kurz in Wasser einweichen, ausdrücken, zu den restlichen Zutaten geben und alles nochmal pürieren. Je nach Konsistenz noch mehr Suppe dazugeben.",
+				"Etwas Sauerrahm einrühren bis die Suppe cremig wird. Mit Salz, Pfeffer und Kräutern abschmecken."
+			],
+			"hint": "Statt dem Sauerrahm kann auch ein Ei zum Verfeinern in die heiße Suppe eingerührt werden.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Kürbiscremesuppe",
+			"type": "SOUP",
+			"servings": 2,
+			"preparation_time": "45 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/kuerbiscremesuppe.jpg",
+			"ingredients": [
+				{
+					"name": "Kürbis",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Gemüsesuppe",
+					"amount": 375,
+					"unit": "ml"
+				},
+				{
+					"name": "Zwiebel (groß)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Knoblauchzehe",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Toastbrot",
+					"amount": 2,
+					"unit": "Scheiben"
+				}
+			],
+			"herbs": [
+				"Sauerrahm",
+				"Salz",
+				"Pfeffer",
+				"Kräuter"
+			],
+			"preparation_steps": [
+				"Kürbis in Stücke schneiden und in einem Topf weich kochen. Währenddessen Zwiebel und Knoblauch klein schneiden und in einer Pfanne anschwitzen.",
+				"Zwiebel und Knoblauch zu den weichen Kürbisstücken geben und mit einem Stabmixer pürieren. Mit etwas Suppe aufgießen. Das Toastbrot kurz in Wasser einweichen, ausdrücken, zu den restlichen Zutaten geben und alles nochmal pürieren. Je nach Konsistenz noch mehr Suppe dazugeben.",
+				"Etwas Sauerrahm einrühren bis die Suppe cremig wird. Mit Salz, Pfeffer und Kräutern abschmecken."
+			],
+			"hint": "Beim Servieren die Suppe mit ein paar Spritzer Kürbiskernöl garnieren.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Indischer Linseneintopf",
+			"type": "MAIN_DISH",
+			"servings": 3,
+			"preparation_time": "1 h",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/indischerlinseneintopf.jpg",
+			"ingredients": [
+				{
+					"name": "Rote Linsen",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser",
+					"amount": 750,
+					"unit": "ml"
+				},
+				{
+					"name": "Salz",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Kurkuma",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Sauerrahm",
+					"amount": 2,
+					"unit": "EL"
+				},
+				{
+					"name": "Tomaten (gestückelt)",
+					"amount": 1,
+					"unit": "Dose"
+				},
+				{
+					"name": "Zwiebel (groß)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Knoblauchzehe",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Reis",
+					"amount": 300,
+					"unit": "g"
+				},
+				{
+					"name": "Passierte Tomaten",
+					"amount": 500,
+					"unit": "ml"
+				}
+			],
+			"herbs": [
+				"Tymian",
+				"Pfeffer",
+				"Kräuter der Provence"
+			],
+			"preparation_steps": [
+				"Wasser in einem Topf zum kochen bringen, Kurkuma einrühren und die Linsen darin 15 Minuten lang weichkochen. Immer umrühren damit nichts anbrennt.",
+				"Zwiebel und Knoblauch klein schneiden und in einer Pfanne anbraten und anschließend zu den weichgekochten Linsen geben. Gestückelte Tomaten, passierte Tomaten und Sauerrahm dazu, gut einrühren und alles mit Salz, Pfeffer, Thymian und Kräuter der Provence abschmecken. Noch mal kurz erhitzen.",
+				"Reis als Beilage kochen. Ca. 100g pro Person."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Zucchini Lauch Quiche",
+			"type": "MAIN_DISH",
+			"servings": 2,
+			"preparation_time": "30 min",
+			"backing_time": "20 min",
+			"backing_heat": "200°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/zucchinilauchquiche.jpg",
+			"ingredients": [
+				{
+					"name": "Zucchini",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Lauch",
+					"amount": 1,
+					"unit": "Stange"
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Mehl",
+					"amount": 65,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser",
+					"amount": 25,
+					"unit": "ml"
+				},
+				{
+					"name": "Backpulver",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Sauerrahm",
+					"amount": 3,
+					"unit": "EL"
+				},
+				{
+					"name": "Ei",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Käse (gerieben)",
+					"amount": 25,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"etwas Öl",
+				"Salz"
+			],
+			"preparation_steps": [
+				"Aus Wasser, Öl, Backpulver und Mehl einen Teig kneten, ausrollen und in eine Kastenform geben.",
+				"Lauch, Zucchini und Zwiebel schneiden, in einer Pfanne anbraten und mit Salz abschmecken.",
+				"Das Ei mit dem Sauerrahm verrühern und dann die Gemüsemischung einrühren. In die Kastenform geben und den geriebenen Käse darauf verteilen.",
+				"Im Ofen bei 200° Ober-/Unterhitze ca. 20 Minuten lang backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Spätzle Lauch Auflauf",
+			"type": "MAIN_DISH",
+			"servings": 4,
+			"preparation_time": "30 min",
+			"backing_time": "30 min",
+			"backing_heat": "200°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/spaetzlelauchauflauf.jpg",
+			"ingredients": [
+				{
+					"name": "Lauch",
+					"amount": 2,
+					"unit": "Stangen"
+				},
+				{
+					"name": "Mehl",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser",
+					"amount": 250,
+					"unit": "ml"
+				},
+				{
+					"name": "Eier",
+					"amount": 5,
+					"unit": ""
+				},
+				{
+					"name": "Sauerrahm",
+					"amount": 1,
+					"unit": "Becher"
+				},
+				{
+					"name": "Bergkäse",
+					"amount": 100,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"Salz"
+			],
+			"preparation_steps": [
+				"Aus Mehl, Wasser, 3 Eiern und etwas Salz einen festen, zähen Spätzleteig zubereiten. Die Spätzle im Wasser kochen und danach mit kaltem Wasser abschrecken.",
+				"Den Lauch klein schneiden und in der Pfanne anbraten bis er weich ist. Danach zu den Spätzle geben und mit Salz abschmecken.",
+				"Den Sauerrahm mit den verbleibenden 2 Eiern verrühren und in die Spätzle-Lauch-Mischung einrühren.",
+				"Die Mischung in eine Auflaufform geben und bei 200°C Ober-/Unterhitze ca. 30 Minuten backen. Danach aus dem Rohr nehmen und noch 10 Minuten stehen lassen, damit der Auflauf abkühlt und sich festigt."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Quiche Lorraine",
+			"type": "MAIN_DISH",
+			"servings": 3,
+			"preparation_time": "30 min",
+			"backing_time": "30 min",
+			"backing_heat": "200°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/quichelorraine.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Backpulver",
+					"amount": 1,
+					"unit": "Msp"
+				},
+				{
+					"name": "Sauerrahm",
+					"amount": 3,
+					"unit": "EL"
+				},
+				{
+					"name": "Eier",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Putenfleisch",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Schlagobers (halber Becher)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Käse (gerieben)",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Putenfleisch",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Lauch",
+					"amount": 50,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"Wasser",
+				"Öl",
+				"Salz",
+				"Pfeffer"
+			],
+			"preparation_steps": [
+				"Aus Mehl, Wasser, Backpulver und Öl einen festen Teig kneten, rund ausrollen und in der Form den Rand hochziehen.",
+				"Putenfleisch würzen, in der Pfanne gemeinsam mit dem Zwiebel anbraten und dann auf dem Quiche-Boden verteilen.",
+				"Eier, Sauerrahm und Schlagobers verrühren. Alle anderen Zutaten unterrühren und salzen und pfeffern. Die Masse auf dem Putenfleisch verteilen.",
+				"Bei 200°C Ober- / Unterhitze ca. 30 min backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Quinoa Laibchen",
+			"type": "MAIN_DISH",
+			"servings": 2,
+			"preparation_time": "1 h",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/quinoalaibchen.jpg",
+			"ingredients": [
+				{
+					"name": "Quinoa",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Zuchini",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Käse",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Tomaten",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Ei",
+					"amount": 1,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Mehl",
+				"Salz",
+				"Pfeffer"
+			],
+			"preparation_steps": [
+				"Quinoa kochen. Währenddessen das Gemüse anbraten, salzen und pfeffern.",
+				"Alles zusammengeben, das Ei einrühren und dann soviel Mehl hinzugeben, bis ein weicher Teig entsteht, aus dem man Laibchen formen kann.",
+				"Die Laibchen in der Pfanne braten."
+			],
+			"hint": "Dazu eignet sich eine Joghurtsauce als Dip.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Kürbis Risotto",
+			"type": "MAIN_DISH",
+			"servings": 1,
+			"preparation_time": "1 h",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/kuerbisrisotto.jpg",
+			"ingredients": [
+				{
+					"name": "Kürbis",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Risottoreis",
+					"amount": 125,
+					"unit": ""
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Knoblauch",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Gemüsebrühe",
+					"amount": 500,
+					"unit": "ml"
+				}
+			],
+			"herbs": [
+				"Olivenöl, Salz, Pfeffer, Curry, Kurkuma"
+			],
+			"preparation_steps": [
+				"Zwiebel und Knoblauch mit etwas Olivenöl in der Pfanne anschwitzen.",
+				"Reis und gewürfelten Kürbis zugeben und kurz anbraten.",
+				"Mit Gemüsebrühe aufgießen und solange mit geschlossenem Deckel köcheln lassen, bis alles durch ist. Gegebenenfalls Gemüsebrühe nachgießen, damit der Reis immer bedeckt ist.",
+				"Mit Salz, Pfeffer, Curry und Kurkuma abschmecken."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Curry (vegetarisch)",
+			"type": "MAIN_DISH",
+			"servings": 3,
+			"preparation_time": "45 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/curry_vegetarisch.jpg",
+			"ingredients": [
+				{
+					"name": "Brokkoli",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Weißkohl",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Knoblauch",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Paprika (rot)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Karotten",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Zucchini",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Kokosmilch",
+					"amount": 400,
+					"unit": "ml"
+				},
+				{
+					"name": "Currypaste",
+					"amount": 1,
+					"unit": "EL"
+				},
+				{
+					"name": "Reis",
+					"amount": 350,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"Sesamöl"
+			],
+			"preparation_steps": [
+				"Zwiebel und Knoblauch klein schneiden. Etwas Sesamöl in einem großen Topf erhitzen und Knoblauch und Zwiebel darin anbraten.",
+				"Währenddessen das restliche Gemüse waschen und klein schneiden. Dann in den Topf geben und ebenfalls kurz abraten.",
+				"Kokosmilch und Currypaste in den Topf geben und darin das Gemüse weichkochen. Wenn du wenig Flüssigkeit vorhanden ist kann entweder mehr Kokosmilch oder auch Wasser dazugegeben werden.",
+				"Als Beilage den Reis nach Zubereitungsanleitung auf der Verpackung zubereiten."
+			],
+			"hint": "Als nicht-vegetarische Variante können vor dem Gemüse zB Putenfleisch, Fisch oder Garnelen in der Kokosmilch gekocht werden.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Putengeschnetzeltes",
+			"type": "MAIN_DISH",
+			"servings": 4,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/putengeschnetzeltes.jpg",
+			"ingredients": [
+				{
+					"name": "Putenfleisch",
+					"amount": 400,
+					"unit": "g"
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Meizena (Maisstärke)",
+					"amount": 7,
+					"unit": "TL"
+				},
+				{
+					"name": "Sauerrahm",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Suppenwürfel",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Nudeln (Hörnchen)",
+					"amount": 400,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"Salz",
+				"Pfeffer"
+			],
+			"preparation_steps": [
+				"Speck würfeln, Zwiebel in Streifen schneiden und gemeinsam anbraten.",
+				"Putenfleisch in Streifen schneiden und separat anbraten.",
+				"250ml Wasser zum Kochen bringen und den Suppenwürfel einrühren. Etwas abkühlen lassen und Zwiebel, Speck und Sauerrahm in die Suppe einrühren.",
+				"In 100ml Wasser 7 TL Maisstärke einrühren und den anderen Zutaten geben. Aufkochen und kurz köcheln lassen bei ständigen Umrühren."
+			],
+			"hint": "Alternativ können mit dem Zwiebel noch 10g Speck angebraten werden.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Spaghetti Bolognese Grundrezept",
+			"type": "MAIN_DISH",
+			"servings": 4,
+			"preparation_time": "1 h",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/spaghettibolognese.jpeg",
+			"ingredients": [
+				{
+					"name": "Faschiertes",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Passierte Tomaten",
+					"amount": 680,
+					"unit": "ml"
+				},
+				{
+					"name": "Basilikum",
+					"amount": 3,
+					"unit": "TL"
+				},
+				{
+					"name": "Olivenöl",
+					"amount": 3,
+					"unit": "TL"
+				},
+				{
+					"name": "Tomatenmark",
+					"amount": 1,
+					"unit": "EL"
+				},
+				{
+					"name": "Spaghetti",
+					"amount": 500,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"Oregano",
+				"Salz",
+				"Pfeffer"
+			],
+			"preparation_steps": [
+				"Zwiebel würfeln. Faschiertes und Zwiebel nacheinander anbraten.",
+				"Alle anderen Zutaten dazugeben und köcheln lassen. Mit Salz, Pfeffer und Kräuter abschmecken."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Zucchinifladen mit Schafskäse",
+			"type": "MAIN_DISH",
+			"servings": 4,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/zucchinifladenmitschafskaese.jpg",
+			"ingredients": [
+				{
+					"name": "Kartoffel",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Zucchini",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Feta",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Mehl",
+					"amount": 350,
+					"unit": "g"
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Eier",
+					"amount": 2,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Salz",
+				"Pfeffer",
+				"Kräuter"
+			],
+			"preparation_steps": [
+				"Zucchini raspeln, Kartoffeln schälen und raspeln. In einer Schüssel mit den Eiern verrühren. Den Feta klein schneiden, Zwiebel klein hacken und beides zu der Mischung geben. Salzen, pfeffern und evtl. Kräuter dazugen.",
+				"Das Mel einrrühren und alles zu einem zähen, patzigen Teig verrühren.",
+				"Mit einem Löffel kleine Häufchen in die Pfanne geben, flach drücken und braten."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Thunfisch Steak",
+			"type": "MAIN_DISH",
+			"servings": 1,
+			"preparation_time": "1 h 30 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/thunfischsteak.jpg",
+			"ingredients": [
+				{
+					"name": "Thunfisch (Filet)",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Kartoffel",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Reis",
+					"amount": 75,
+					"unit": "g"
+				},
+				{
+					"name": "Tomaten",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 1,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Salz",
+				"Pfeffer",
+				"Thymian",
+				"Majoran",
+				"Petersilie",
+				"Olivenöl"
+			],
+			"preparation_steps": [
+				"Kartoffel schälen, stückeln und kochen. Anschließend in der Pfanne rösten. Am Schluss Petersilie dazugeben und salzen.",
+				"Reis kochen. Währenddessen den Zwiebel in Streifen schneiden und die Tomaten stückeln. In einer Pfanne anbraten. Die selbe Pfanne anschließend für den Thunfisch verwenden.",
+				"Thunfisch auf beiden Seiten salzen, pfeffern und ein wenig mit Thymian und Majoran bestreuen. In eine Pfanne etwas Olivenöl geben und heiß werden lassen. Auf jeder Seite ca. 1 min 30 sec braten."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Roggen Haferflocken Brot",
+			"type": "BREAD",
+			"servings": 1,
+			"preparation_time": "15 min",
+			"backing_time": "1 h",
+			"backing_heat": "190°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/roggenhaferflockenbrot.jpg",
+			"ingredients": [
+				{
+					"name": "Roggenmehl",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Weizenmehl",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Haferflocken",
+					"amount": 50,
+					"unit": "g"
+				},
+				{
+					"name": "Körner (Sonnenblumenkerne, Sesam, Leinsamen, etc.)",
+					"amount": 100,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser (lauwarm)",
+					"amount": 350,
+					"unit": "ml"
+				},
+				{
+					"name": "Salz",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Zucker",
+					"amount": 1,
+					"unit": "EL"
+				},
+				{
+					"name": "Trockengerm",
+					"amount": 1,
+					"unit": "Pkg."
+				}
+			],
+			"herbs": [
+
+			],
+			"preparation_steps": [
+				"Bis auf das Wasser alle Zutaten in eine Schüssel geben und gut vermischen.",
+				"Das Wasser dazugeben und in der Küchenmaschine zu einen klebrigen Teig verkneten.",
+				"Den Teig in eine Kastenform geben und mit einem Löffel glatt drücken. Mit einem Messer längsseitig einen Schnitt machen und evtl. mit ein paar Haferflocken bestreuen.",
+				"In den kalten Ofen stellen, auf 190°C Ober-Unterhitze einschalten und ca. eine Stunde lang backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Roggen-Mischbrot",
+			"type": "BREAD",
+			"servings": 1,
+			"preparation_time": "1 h 20 min",
+			"backing_time": "40 min",
+			"backing_heat": "210°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/roggenmischbrot.jpg",
+			"ingredients": [
+				{
+					"name": "Weizenmehl",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Roggenmehl",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser (lauwarm)",
+					"amount": 330,
+					"unit": "ml"
+				},
+				{
+					"name": "Salz",
+					"amount": 2,
+					"unit": "TL"
+				},
+				{
+					"name": "Brotgewürz",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Trockenhefe",
+					"amount": 1,
+					"unit": "Pkg."
+				}
+			],
+			"herbs": [
+
+			],
+			"preparation_steps": [
+				"Die trockenen Zutaten in eine Schüssel geben und vermischen. Anschließend das Wasser dazu und zu einem Teig kneten",
+				"Den Teig ca. eine Stunde gehen lassen.",
+				"Den Teig zu einem Laib formen und auf ein Blech legen. Die Hand mit Wasser befeuchten und über den Teig streichen.",
+				"Bei 210°C Heißluft ca. 40 Minuten lang backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Joghurtbrot",
+			"type": "BREAD",
+			"servings": 1,
+			"preparation_time": "1 h",
+			"backing_time": "40 min",
+			"backing_heat": "190°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/joghurtbrot.jpg",
+			"ingredients": [
+				{
+					"name": "Weizen-Vollkornmehl",
+					"amount": 300,
+					"unit": "g"
+				},
+				{
+					"name": "Mehl",
+					"amount": 300,
+					"unit": "g"
+				},
+				{
+					"name": "Zucker",
+					"amount": 2,
+					"unit": "EL"
+				},
+				{
+					"name": "Backpulver",
+					"amount": 1,
+					"unit": "Pkg."
+				},
+				{
+					"name": "Salz",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Jogurt",
+					"amount": 425,
+					"unit": "ml"
+				},
+				{
+					"name": "Ei",
+					"amount": 1,
+					"unit": ""
+				}
+			],
+			"herbs": [
+
+			],
+			"preparation_steps": [
+				"Mehl, Backpulver, Zucker und Salz vermischen. Joghurt dazu das verquirlte Ei dazugeben und zu einem weichen Teig verkneten.",
+				"Teig auf einem Blech zu einem ca. 5 cm hohen Laib formen unud oben kreuzförmig einschneiden.",
+				"Bei 190°C ca. 40 Minuten lang backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Käse Kartoffel Brot",
+			"type": "BREAD",
+			"servings": 1,
+			"preparation_time": "1 h 15 min",
+			"backing_time": "30 min",
+			"backing_heat": "220°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/kaesekartoffelbrot.jpg",
+			"ingredients": [
+				{
+					"name": "Mehl",
+					"amount": 225,
+					"unit": "g"
+				},
+				{
+					"name": "Backpulver",
+					"amount": 2,
+					"unit": "TL"
+				},
+				{
+					"name": "Salz",
+					"amount": 1,
+					"unit": "TL"
+				},
+				{
+					"name": "Käse",
+					"amount": 125,
+					"unit": "g"
+				},
+				{
+					"name": "Kartoffeln",
+					"amount": 175,
+					"unit": "g"
+				},
+				{
+					"name": "Wasser",
+					"amount": 200,
+					"unit": "ml"
+				},
+				{
+					"name": "Öl",
+					"amount": 1,
+					"unit": "EL"
+				}
+			],
+			"herbs": [
+
+			],
+			"preparation_steps": [
+				"Kartoffeln schälen, würfeln, weich kochen und pürieren. Etwas auskühlen lassen.",
+				"Mehl, Salz und Backpulver in eine Schüssel geben. Käse reiben und ca. 2 Esslöffel davon beiseite geben. Den Rest in die Mehlmischung geben und verrühren. Öl und Wasser dazu und zu einem ziemlich klebrigen Teig mischen.",
+				"Den Teig of ein Blech geben und zu einem ca 20cm breiten Laib formen. Den restlichen Käse über den Laib streuen. Bei 220°C ca. 30 Minuten lang backen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Kürbiscurry",
+			"type": "MAIN_DISH",
+			"servings": 2,
+			"preparation_time": "45 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/kuerbiscurry.jpg",
+			"ingredients": [
+				{
+					"name": "Butternusskürbis",
+					"amount": 600,
+					"unit": "g"
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Reis",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Sauerrahm",
+					"amount": 1,
+					"unit": "EL"
+				}
+			],
+			"herbs": [
+				"Curry",
+				"Salz",
+				"Pfeffer"
+			],
+			"preparation_steps": [
+				"Den Kürbis schälen und würfeln. Den Zwiebel ebenfalls schälen und würfeln. Beides im Wasser kochen bis der Kürbis weich geworden ist. Währenddessen den Reis kochen.",
+				"Das Wasser in eine Schüssel ableeren. Kürbis und Zwiebel pürieren und mit Wasser aufgießen, bis es die gewünschte Konsistenz hat.",
+				"Den Sauerrahm einrühren, mit Salz abschmecken und mit Pfeffer schärfen. Zum Schluss den Curry einrühren, je nach Geschmack, ca. ein Teelöffel."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Gemüsestrudel",
+			"type": "MAIN_DISH",
+			"servings": 2,
+			"preparation_time": "15 min",
+			"backing_time": "30 min",
+			"backing_heat": "180°C",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/gemuesestrudel.jpg",
+			"ingredients": [
+				{
+					"name": "Gemüse nach Belieben",
+					"amount": 350,
+					"unit": "g"
+				},
+				{
+					"name": "Ei",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Sauerrahm",
+					"amount": 2,
+					"unit": "EL"
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Blätterteig",
+					"amount": 1,
+					"unit": "Pkg."
+				}
+			],
+			"herbs": [
+				"Knoblauch",
+				"etwas Käse (gerieben)",
+				"Salz",
+				"Kräuter"
+			],
+			"preparation_steps": [
+				"Zwiebel würfeln, Knoblauch klein schneiden und beides gemeinsam in einem Topf kurz anbraten. Das restliche Gemüse dazugeben und alles kurz anbraten.",
+				"Den Topf vom Herd nehmen und kurz abkühlen lassen. Anschließend der Reihe nach Sauerrahm, Käse und Ei hinzugeben und gut verrühren. Mit Salz und Kräuter würzen.",
+				"Den Blätterteig auf einem Blech ausrollen und die Gemüsemasse darauf verteilen. Beide Seiten einschlagen und die Enden zusammendrücken.",
+				"Bei 180°C Ober-/Unterhitze ca. 30 Minuten backen. Vor dem Servieren noch etwas auskühlen lassen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Rotkrautgulsch",
+			"type": "MAIN_DISH",
+			"servings": 4,
+			"preparation_time": "2 h 30 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/rotkrautgulasch.jpg",
+			"ingredients": [
+				{
+					"name": "Rotkraut",
+					"amount": 750,
+					"unit": "g"
+				},
+				{
+					"name": "Kartoffeln",
+					"amount": 350,
+					"unit": "g"
+				},
+				{
+					"name": "Lauch",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Sauerrahm",
+					"amount": 1,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Salz",
+				"Pfeffer",
+				"Kräuter"
+			],
+			"preparation_steps": [
+				"Kartoffeln schälen, würfeln und kochen. Währenddessen den Zwiebel würfeln und etwas anbraten.",
+				"In einem großen Topf ca eineinhalb Liter Wasser zum Kochen bringen. Das Rotkraut und den lauch schneiden und im Wasser weichkochen. Dies kann leicht eine halbe Stunde und länger dauern.",
+				"Wenn das Rotkraut die gewünschte Konsistenz hat die Kartoffeln und den Zwiebel einrühren. Gut umrühren und mit Salz, Pfeffer und Kräutern abschmecken."
+			],
+			"hint": "Zum Servieren einen Löffel Sauerrahm auf den Teller geben.",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Erdäpfelkäse",
+			"type": "SPREAD",
+			"servings": 1,
+			"preparation_time": "30 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/erdapfelkaese.jpg",
+			"ingredients": [
+				{
+					"name": "Kartoffel",
+					"amount": 500,
+					"unit": "g"
+				},
+				{
+					"name": "Sauerrahm",
+					"amount": 175,
+					"unit": "g"
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 1,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Salz",
+				"Pfeffer"
+			],
+			"preparation_steps": [
+				"Kartoffeln schälen, stückeln und weichkochen. Währenddessen den Ziebel kleinschneiden.",
+				"Anschließend die Kartoffeln zerstampfen und den Sauerrahm einrühren.",
+				"Zwiebel hinzugeben und mit Salz und Pfeffer abschmecken."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Kürbiskernaufstrich",
+			"type": "SPREAD",
+			"servings": 1,
+			"preparation_time": "45 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/kuerbiskernaufstrich.jpg",
+			"ingredients": [
+				{
+					"name": "Butter",
+					"amount": 125,
+					"unit": "g"
+				},
+				{
+					"name": "Kürbiskerne (klein gehackt)",
+					"amount": 200,
+					"unit": "g"
+				},
+				{
+					"name": "Kürbiskernöl",
+					"amount": 1,
+					"unit": "EL"
+				},
+				{
+					"name": "Magertopfen",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Zwiebel (klein)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Knoblauchzehe",
+					"amount": 1,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Salz",
+				"Pfeffer",
+				"Petersilie",
+				"Schnittlauch"
+			],
+			"preparation_steps": [
+				"Butter mixen, Topfen dazu und verrühren.",
+				"Alle anderen Zutaten einrühren.",
+				"Mit Salz und Pfeffer abschmecken."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Hirseaufstrich",
+			"type": "SPREAD",
+			"servings": 1,
+			"preparation_time": "45 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/linsenaufstrich.jpg",
+			"ingredients": [
+				{
+					"name": "Hirse",
+					"amount": 50,
+					"unit": "g"
+				},
+				{
+					"name": "Gemüsebrühe",
+					"amount": 200,
+					"unit": "ml"
+				},
+				{
+					"name": "Karotten",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Zwiebel",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Sonnenblumenöl",
+					"amount": 3,
+					"unit": "EL"
+				},
+				{
+					"name": "Sauerkraut",
+					"amount": 100,
+					"unit": "g"
+				}
+			],
+			"herbs": [
+				"Kräuter",
+				"Salz",
+				"Pfeffer",
+				"Paprikapulver"
+			],
+			"preparation_steps": [
+				"Hirse heiß abwaschen, in der Gemüsebrühe 10 Minuten kochen und ausquellen lassen.",
+				"Zwiebel würfeln, Kartoffeln reiben und beides in Öl dünsten.",
+				"Hirse, Sauerkraut und Kräuter unter die Zwiebel und Karotten mischen. Die Hälfte der Masse pürieren, mit der anderen Hälfte mischen und evtl. Wasser zugeben",
+				"Mit Salz, Pfeffer und Paprikapulver abschmecken."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Thunfischaufstrich",
+			"type": "SPREAD",
+			"servings": 1,
+			"preparation_time": "30 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/thunfischaufstrich.jpg",
+			"ingredients": [
+				{
+					"name": "Thunfisch",
+					"amount": 1,
+					"unit": "Dose"
+				},
+				{
+					"name": "Eier (gekocht)",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Zwiebel (klein)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Sauerrahm",
+					"amount": 2,
+					"unit": "EL"
+				},
+				{
+					"name": "Kapern",
+					"amount": 1,
+					"unit": "EL"
+				}
+			],
+			"herbs": [
+				"Salz",
+				"Pfeffer",
+				"Schnittlauch"
+			],
+			"preparation_steps": [
+				"Zwiebel und Eier klein würfeln und mit den zerkleinerten Kapern zum abgetropften Thunfisch geben.",
+				"Mit Sauerrahm vermengen und mit Salz und Pfeffer abschmecken. Mit Schnittlauch bestreuen."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		},
+		{
+			"name": "Lachsaufstrich",
+			"type": "SPREAD",
+			"servings": 1,
+			"preparation_time": "45 min",
+			"backing_time": "",
+			"backing_heat": "",
+			"image_url": "https://raw.githubusercontent.com/fabianbouchal/cookbook-assets/main/apps/cooking/images/lachsaufstrich.jpg",
+			"ingredients": [
+				{
+					"name": "Philadelphis",
+					"amount": 250,
+					"unit": "g"
+				},
+				{
+					"name": "Knoblauchzehen",
+					"amount": 2,
+					"unit": ""
+				},
+				{
+					"name": "Olivenöl (Schuss)",
+					"amount": 1,
+					"unit": ""
+				},
+				{
+					"name": "Räucherlachs",
+					"amount": 150,
+					"unit": "g"
+				},
+				{
+					"name": "Zwiebel (klein)",
+					"amount": 1,
+					"unit": ""
+				}
+			],
+			"herbs": [
+				"Saft einer halben Zitrone",
+				"Salz"
+			],
+			"preparation_steps": [
+				"Knoblauch zerdrücken, mit Olivenöl verrühren und 15 Minuten im Kühlschrank lassen.",
+				"Zwiebel klein schneiden, in Salzwasser aufkochen, abseihen und abschrecken.",
+				"Lachs mit dem Mixer zerkleinern.",
+				"Philadelphia cremig rühren und danach alle anderen Zutaten einrühren."
+			],
+			"hint": "",
+			"tags": [
+
+			]
+		}
+	],
+	"categories": [
+		{
+			"category": "SOUP",
+			"display_name": "Suppen & Vorspeisen"
+		},
+		{
+			"category": "MAIN_DISH",
+			"display_name": "Hauptspeisen"
+		},
+		{
+			"category": "CAKE",
+			"display_name": "Nachspeisen & Kuchen"
+		},
+		{
+			"category": "BREAD",
+			"display_name": "Brot & Gebäck"
+		},
+		{
+			"category": "SPREAD",
+			"display_name": "Aufstriche"
+		},
+		{
+			"category": "SALAD",
+			"display_name": "Salate & Beilagen"
+		},
+		{
+			"category": "OTHER",
+			"display_name": "Sonstiges"
+		}
+	]
+}
